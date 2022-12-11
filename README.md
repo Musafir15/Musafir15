@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Musafir15
+- 👋 Hi, I’m @Musafir15 <hr/>
 - 👀 I’m interested in Web development, data science
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on data science
